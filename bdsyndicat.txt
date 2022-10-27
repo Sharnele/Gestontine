@@ -1,0 +1,51 @@
+create database if not exists bdsyndicat;
+use bdsyndicat;
+
+# -----------------------------------------------------------------------------
+#       table : adherent
+# -----------------------------------------------------------------------------
+
+create table if not exists adherent
+ (
+   id integer not null auto_increment ,  
+   nom varchar(128) null, 
+   prenom varchar(128) null ,
+   datenaiss varchar(128) null ,
+   lieunaiss varchar(128) null, 
+    sexe varchar(128) null ,
+    numcni integer null,
+    tel varchar(123) null,
+    primary key (id) 
+ ) 
+ comment = "";
+
+# -----------------------------------------------------------------------------
+#       table : operation
+# -----------------------------------------------------------------------------
+create table if not exists operation
+ (
+     id integer not null auto_increment ,
+   montant float null, 
+   taux float null ,
+   report float null ,
+   type varchar(128) null, 
+   primary key (id) 
+ ) 
+ comment = "";
+
+# -----------------------------------------------------------------------------
+#       table : participer
+# -----------------------------------------------------------------------------
+create table if not exists participer
+ (
+
+id integer not null auto_increment ,
+   idad integer  null ,  
+   idop integer  null , 
+    datep varchar(128) null ,
+    primary key (id) ,
+    foreign key (idad) references adherent(idad),
+    foreign key (idop) references operation(idop)
+
+ ) 
+ comment = "";

@@ -1,0 +1,62 @@
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe.config
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.pdb
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.Properties.Resources.resources
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.resources
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeadherent.resources
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.csproj.GenerateResource.Cache
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.exe
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.pdb
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.fr.resources
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\SHARNELE DJEUKAM\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe.config
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.pdb
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.Properties.Resources.resources
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.resources
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeadherent.resources
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.fr.resources
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.exe
+C:\Users\sharnele\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.pdb
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe.config
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.exe
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.pdb
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.pdb
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\bin\Debug\fr\GESYNDICAT.resources.dll
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.Properties.Resources.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeadherent.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.fr.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\fr\GESYNDICAT.resources.dll
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_operation.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeoperation.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeparticipant.resources
+D:\sharnele SHA\Documents\Visual Studio 2010\Projects\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_participant.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe.config
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.exe
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\bin\Debug\GESYNDICAT.pdb
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\bin\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.Properties.Resources.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeadherent.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeoperation.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_listeparticipant.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_operation.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_participant.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.VUE.F_adherent.fr.resources
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\fr\GESYNDICAT.resources.dll
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.exe
+C:\Users\SHARNELE\Desktop\bureau\GESYNDICAT\GESYNDICAT\obj\x86\Debug\GESYNDICAT.pdb
